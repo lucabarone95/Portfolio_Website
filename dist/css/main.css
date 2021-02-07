@@ -86,8 +86,8 @@ input[class^='btn-']:hover {
 .hidden {
   display: none; }
 
-#about-b .br h4 {
-  padding-bottom: 3.2rem; }
+#about-b .br .br1 h4 {
+  padding-bottom: 0; }
 
 .py-1 {
   padding: 1rem 0; }
@@ -541,6 +541,8 @@ img {
     padding: 2rem 0 1rem 0; }
   #about-b .br h4 {
     padding-bottom: 3.2rem; }
+  #about-b .br1 h4 {
+    padding-bottom: 1.6rem; }
   #about-a .about-info {
     grid-template-areas: 'bioimage' 'bio' 'aw1' 'aw2' 'aw3'; }
   #about-c .about-logos {
@@ -621,6 +623,8 @@ img {
     margin: 0; }
   #about-b .br h4 {
     padding-bottom: 3.2rem; }
+  #about-b .br1 h4 {
+    padding-bottom: 1.6rem; }
   .item-image {
     height: 185px;
     transform: translateZ(0);
