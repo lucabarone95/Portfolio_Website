@@ -84,12 +84,12 @@ img {
 // Header
 #header {
 
-    
+
     &-home{
         background: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7) ) ,
-        url(img/mex.jpg) no-repeat center center/cover;
+        url(/dist/img/mex.jpg) no-repeat center center/cover;
         height: 100vh;
         color: #fff;
  
@@ -111,7 +111,7 @@ img {
         background: linear-gradient(
             rgba(0,0,0,0.6),
             rgba(0,0,0,0.6) ) ,
-            url(https://source.unsplash.com/assets/photo-1433959352364-9314c5b6eb0b-ef3fe6b0fe97031bbaf5d39b9e9382c4662a45ab1b8bb0f395cb9ddf62d4739a.jpg) no-repeat center center/cover;
+            url(/dist/img/mex.jpg) no-repeat center center/cover;
         height: 5.5rem;
         border-bottom: 3px solid $main-color;
     }
