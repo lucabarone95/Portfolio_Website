@@ -515,11 +515,11 @@ img {
     #header-home .header-content {
       padding-top: 2rem; }
       #header-home .header-content h1 {
-        margin-bottom: 0.2rem;
-        font-size: 2.2rem;
-        padding-bottom: 0.5rem; }
+        margin-bottom: 0.1rem;
+        font-size: 2.15rem;
+        padding-bottom: 0.4rem; }
       #header-home .header-content p {
-        font-size: 1.35rem; }
+        font-size: 1.3rem; }
   #header-inner {
     height: 10rem; }
   .container {
@@ -601,15 +601,15 @@ img {
     padding-top: 47vw;
     overflow: hidden; } }
 
-@media (max-width: 350px) {
+@media (max-width: 380px) {
   #header-home {
-    height: 92vh;
+    height: 100vh;
     padding-top: 0.2rem; }
     #header-home h1 {
       margin-bottom: 0.2rem;
-      font-size: 22px; }
+      font-size: 21px; }
     #header-home p {
-      font-size: 12px; }
+      font-size: 11px; }
   #contact-c {
     margin-top: 0;
     padding-top: 0;

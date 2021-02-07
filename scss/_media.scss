@@ -71,12 +71,12 @@
             .header-content {
                 padding-top: 2rem;
                 h1 {                
-                    margin-bottom: 0.2rem;
-                    font-size: 2.2rem;
-                    padding-bottom: 0.5rem;
+                    margin-bottom: 0.1rem;
+                    font-size: 2.15rem;
+                    padding-bottom: 0.4rem;
                 }
                 p {
-                    font-size: 1.35rem;
+                    font-size: 1.3rem;
                 }
             }
         }
@@ -267,20 +267,20 @@
 
 }
 
-@media(max-width: 350px){
+@media(max-width: 380px){
 
     #header-home {
-        height:92vh; 
+        height:100vh; 
         
         padding-top: 0.2rem;
         
         h1 {                
 
             margin-bottom: 0.2rem;
-            font-size: 22px;
+            font-size: 21px;
         }
         p {
-            font-size: 12px;
+            font-size: 11px;
         }
     }
 
