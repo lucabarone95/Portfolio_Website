@@ -86,6 +86,9 @@ input[class^='btn-']:hover {
 .hidden {
   display: none; }
 
+.small {
+  font-size: 0.1rem; }
+
 #about-b .br .br1 h4 {
   padding-bottom: 0; }
 
