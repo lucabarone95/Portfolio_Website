@@ -86,6 +86,9 @@ input[class^='btn-']:hover {
 .hidden {
   display: none; }
 
+#about-b .br h4 {
+  padding-bottom: 3.2rem; }
+
 .py-1 {
   padding: 1rem 0; }
 
@@ -269,7 +272,7 @@ img {
     border-bottom: none; }
 
 #header-home {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://source.unsplash.com/assets/photo-1433959352364-9314c5b6eb0b-ef3fe6b0fe97031bbaf5d39b9e9382c4662a45ab1b8bb0f395cb9ddf62d4739a.jpg) no-repeat center center/cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/dist/img/mex.jpg) no-repeat center center/cover;
   height: 100vh;
   color: #fff; }
   #header-home .header-content {
@@ -536,6 +539,8 @@ img {
       text-align: center; }
   #home-b .stats div {
     padding: 2rem 0 1rem 0; }
+  #about-b .br h4 {
+    padding-bottom: 3.2rem; }
   #about-a .about-info {
     grid-template-areas: 'bioimage' 'bio' 'aw1' 'aw2' 'aw3'; }
   #about-c .about-logos {
@@ -614,6 +619,8 @@ img {
   #about-e .award-2 .fas {
     color: #ffbc00;
     margin: 0; }
+  #about-b .br h4 {
+    padding-bottom: 3.2rem; }
   .item-image {
     height: 185px;
     transform: translateZ(0);

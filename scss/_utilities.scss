@@ -101,7 +101,15 @@ input[class^='btn-']:hover{
 .hidden {
     display: none;
 }
-
+#about-b {
+    
+    .br {
+        h4 {
+            padding-bottom: 3.2rem;
+        }
+    }
+    
+}
 .py {
     &-1 {padding: 1rem 0;}
     &-2 {padding: 2rem 0;}
