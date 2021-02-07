@@ -580,7 +580,7 @@ img {
       #main-footer .footer-content .social {
         padding-bottom: 0.5rem; }
   .item-image {
-    height: 235px;
+    height: 215px;
     transform: translateZ(0);
     display: block;
     transition: transform 750ms cubic-bezier(0.2, 1, 0.3, 1); }
@@ -615,7 +615,7 @@ img {
     color: #ffbc00;
     margin: 0; }
   .item-image {
-    height: 195px;
+    height: 185px;
     transform: translateZ(0);
     display: block;
     transition: transform 750ms cubic-bezier(0.2, 1, 0.3, 1); }
