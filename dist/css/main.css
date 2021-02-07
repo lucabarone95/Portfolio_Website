@@ -556,7 +556,7 @@ img {
     grid-template-columns: repeat(4, 1fr); }
   #about-e .about-info {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     gap: 3.5rem; }
   #about-e .award-1 .fas,
   #about-e .award-2 .fas {
@@ -620,8 +620,7 @@ img {
       text-align: center;
       font-size: 1.2rem; }
   #about-e .about-info {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     gap: 2rem; }
   #about-e .award-1 .fas,
   #about-e .award-2 .fas {
