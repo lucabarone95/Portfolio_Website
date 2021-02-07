@@ -479,13 +479,13 @@ img {
 
 @media (max-width: 1200px) {
   #header-home {
-    height: 32rem; }
+    height: 100vh; }
     #header-home .header-content {
       padding-top: 5rem; }
       #header-home .header-content h1 {
         font-size: 2.6rem;
         line-height: 1.2;
-        margin-bottom: 0.2rem; }
+        margin-bottom: 1.2rem; }
   .item-image {
     height: 235px;
     transform: translateZ(0);
