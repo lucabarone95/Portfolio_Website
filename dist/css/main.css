@@ -642,7 +642,7 @@ img {
 
 @media (max-height: 580px) {
   #header-home {
-    height: 100vh; }
+    height: 120vh; }
     #header-home .header-content {
       padding-top: 3rem; }
       #header-home .header-content h1 {
@@ -650,7 +650,7 @@ img {
 
 @media (max-height: 330px) {
   #header-home {
-    height: 100vh; }
+    height: 120vh; }
     #header-home .header-content {
       padding-top: 2rem; }
       #header-home .header-content h1 {
