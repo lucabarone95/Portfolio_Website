@@ -328,6 +328,17 @@ img {
 
 #contact {
     &-a {
+
+        input, textarea {
+            border: 0.1px #f3f3f3 solid;
+            border-radius: 10px;
+            outline: none;
+        }
+
+        input:focus , textarea:focus {
+            border: 0.1px $main-color solid;
+        }
+
         .text-fields {
             display: grid;
             grid-template-areas: 
