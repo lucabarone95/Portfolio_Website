@@ -235,6 +235,11 @@ a {
   text-decoration: none;
   color: #333; }
 
+.link {
+  text-decoration: underline;
+  color: #05bc70;
+}
+
 ul {
   list-style: none; }
 
@@ -430,7 +435,9 @@ img {
 
 #contact-a .text-fields {
   display: grid;
-  grid-template-areas: 'name email' 'subject phone' 'message message';
+  grid-template-areas: 'name email'
+ 'subject phone'
+ 'message message';
   gap: 1.2rem;
   margin-bottom: 1.2rem; }
   #contact-a .text-fields .name-input {
@@ -558,7 +565,11 @@ img {
   #about-b .br1 h4 {
     padding-bottom: 1.6rem; }
   #about-a .about-info {
-    grid-template-areas: 'bioimage' 'bio' 'aw1' 'aw2' 'aw3'; }
+    grid-template-areas: 'bioimage'
+ 'bio'
+ 'aw1'
+ 'aw2'
+ 'aw3'; }
   #about-c .about-logos {
     display: grid;
     grid-template-columns: repeat(4, 1fr); }
@@ -571,7 +582,11 @@ img {
     color: #ffbc00;
     margin: 0; }
   #contact-a .text-fields {
-    grid-template-areas: 'name' 'subject' 'email' 'phone' 'message'; }
+    grid-template-areas: 'name'
+ 'subject'
+ 'email'
+ 'phone'
+ 'message'; }
     #contact-a .text-fields input, #contact-a .text-fields textarea {
       border: 0.1px #f6f6f6 solid;
       border-radius: 10px; }
